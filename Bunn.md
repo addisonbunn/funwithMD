@@ -1,6 +1,10 @@
 Complete the following items using Markdown.
 
 Create a section header, call it "Definition", and italicize the header.
+# *Definition* 
+>This is a block QUOTE BABY!!!
+>Block quoteeeee
+
 
 
 What is Markdown?
@@ -13,11 +17,14 @@ It's great for code! Take a command we learned to use in the terminal and share 
 Now, let's have some fun! 
 
 Create another section header, give it a name, and italicize the header.
-
+#Give it a name
 Who doesn't love a good meme? Either find or create a meme about data!
 * Post your meme as an image.
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/0/06/Randy_Moss.jpg)
 Share a video from YouTube that we all shoudn't live without. 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/watch?v=lwDa7zEuPWA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Create another section header, give it a name, and italicize the header.
 
